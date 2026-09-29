@@ -4,6 +4,8 @@ Juego de disparos en primera persona (FPS) en 3D que corre en el navegador.
 Te enfrentas a un bot controlado por la computadora dentro de una arena cerrada.
 Gana el primero que consiga 5 bajas.
 
+[JUEGO](https://geekrovira.github.io/ARENAGAME/)
+
 ## Cómo jugar
 
 Abre `index.html` en cualquier navegador moderno (Chrome, Edge, Firefox).
